@@ -33,8 +33,5 @@ gulp.task('default', function(){
             .pipe($_.csso())
             .pipe($_.rename({suffix:'.min'}))
             .pipe(gulp.dest('./'));
-        if(config.watch) {
-            gulp.watch('./source/**/*.styl',['default']);
-        }
     });
 });
