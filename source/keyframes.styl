@@ -432,25 +432,100 @@
     transform: translate3d(100%, 0, 0) skewX(30deg)
     opacity: 0
 
-// @keyframes rotateIn
+@keyframes rotateIn
+  0%
+    transform-origin: center
+    transform: rotate3d(0, 0, 1, -200deg)
+    opacity: 0
+  100%
+    transform-origin: center
+    transform: none
+    opacity: 1
 
-// @keyframes rotateInDownLeft
+@keyframes rotateInDownLeft
+  0%
+    transform-origin: left bottom
+    transform: rotate3d(0, 0, 1, -45deg)
+    opacity: 0
+  100%
+    transform-origin: left bottom
+    transform: none
+    opacity: 1
 
-// @keyframes rotateInDownRight
+@keyframes rotateInDownRight
+  0%
+    transform-origin: right bottom
+    transform: rotate3d(0, 0, 1, 45deg)
+    opacity: 0
+  100%
+    transform-origin: right bottom
+    transform: none
+    opacity: 1
 
-// @keyframes rotateInUpLeft
+@keyframes rotateInUpLeft
+  0%
+    transform-origin: left bottom
+    transform: rotate3d(0, 0, 1, 45deg)
+    opacity: 0
+  100%
+    transform-origin: left bottom
+    transform: none
+    opacity: 1
 
-// @keyframes rotateInUpRight
+@keyframes rotateInUpRight
+  0%
+    transform-origin: right bottom
+    transform: rotate3d(0, 0, 1, -90deg)
+    opacity: 0
+  100%
+    transform-origin: right bottom
+    transform: none
+    opacity: 1
 
-// @keyframes rotateOut
+@keyframes rotateOut
+  0%
+    transform-origin: center
+    opacity: 1
+  100%
+    transform-origin: center
+    transform: rotate3d(0, 0, 1, 200deg)
+    opacity: 0
 
-// @keyframes rotateOutDownLeft
+@keyframes rotateOutDownLeft
+  0%
+    transform-origin: left bottom
+    opacity: 1
+  100%
+    transform-origin: left bottom
+    transform: rotate3d(0, 0, 1, 45deg)
+    opacity: 0
 
-// @keyframes rotateOutDownRight
+@keyframes rotateOutDownRight
+  0%
+    transform-origin: right bottom
+    opacity: 1
+  100%
+    transform-origin: right bottom
+    transform: rotate3d(0, 0, 1, -45deg)
+    opacity: 0
 
-// @keyframes rotateOutUpLeft
+@keyframes rotateOutUpLeft
+  0%
+    transform-origin: left bottom
+    opacity: 1
+  100%
+    transform-origin: left bottom
+    transform: rotate3d(0, 0, 1, -45deg)
+    opacity: 0
 
-// @keyframes rotateOutUpRight
+@keyframes rotateOutUpRight
+  0%
+    transform-origin: right bottom
+    opacity: 1
+  100%
+    transform-origin: right bottom
+    transform: rotate3d(0, 0, 1, 90deg)
+    opacity: 0
 
 // @keyframes slideInDown
 
