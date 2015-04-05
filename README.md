@@ -4,11 +4,17 @@
 
 ### With Bower
 
-Just Type this command in Your Terminal `bower install animate.styl` and Press Enter.
+Just Type this command in Your Terminal and Press Enter.
+```
+bower install animate.styl
+```
 
 ### With Git
 
-Just Clone this Repo in your Project with This Command `git clone https://github.com/thecodechef/animate.styl.git` and Press Enter.
+Just Clone this Repo in your Project with This Command and Press Enter.
+```
+git clone https://github.com/thecodechef/animate.styl.git
+```
 
 
 ## Usage
