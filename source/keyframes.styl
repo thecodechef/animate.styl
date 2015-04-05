@@ -174,13 +174,41 @@
     opacity: 0
     transform: scale3d(.3, .3, .3)
 
-// @keyframes bounceOutDown
+@keyframes bounceOutDown
+    20%
+      transform: translate3d(0, 10px, 0)
+    40%, 45%
+      opacity: 1
+      transform: translate3d(0, -20px, 0)
+    100%
+      opacity: 0
+      transform: translate3d(0, 2000px, 0)
 
-// @keyframes bounceOutLeft
+@keyframes bounceOutLeft
+    20%
+      opacity: 1
+      transform: translate3d(20px, 0, 0)
+    100%
+      opacity: 0
+      transform: translate3d(-2000px, 0, 0)
 
-// @keyframes bounceOutRight
+@keyframes bounceOutRight
+    20%
+      opacity: 1
+      transform: translate3d(-20px, 0, 0)
+    100%
+      opacity: 0
+      transform: translate3d(2000px, 0, 0)
 
-// @keyframes bounceOutUp
+@keyframes bounceOutUp
+  20%
+    transform: translate3d(0, -10px, 0)
+  40%, 45%
+    opacity: 1
+    transform: translate3d(0, 20px, 0)
+  100%
+    opacity: 0
+    transform: translate3d(0, -2000px, 0)
 
 @keyframes fadeIn
     0%
