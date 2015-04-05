@@ -13,7 +13,7 @@ bower install animate.styl
 
 Just Clone this Repo in your Project with This Command and Press Enter.
 ```
-git clone https://github.com/thecodechef/animate.styl.git
+git clone https://github.com/thecodechef/animate.styl.git animate.styl
 ```
 
 
