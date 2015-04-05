@@ -342,19 +342,95 @@
     opacity: 0
     transform: translate3d(0, -2000px, 0)
 
-// @keyframes flip
+@keyframes flip
+  0%
+    transform: perspective(400px) rotate3d(0, 1, 0, -360deg)
+    animation-timing-function: ease-out
+  40%
+    transform: perspective(400px) translate3d(0, 0, 150px) rotate3d(0, 1, 0, -190deg)
+    animation-timing-function: ease-out
+  50%
+    transform: perspective(400px) translate3d(0, 0, 150px) rotate3d(0, 1, 0, -170deg)
+    animation-timing-function: ease-in
+  80%
+    transform: perspective(400px) scale3d(.95, .95, .95)
+    animation-timing-function: ease-in
+  100%
+    transform: perspective(400px)
+    animation-timing-function: ease-in
 
-// @keyframes flipInX
+@keyframes flipInX
+  0%
+    transform: perspective(400px) rotate3d(1, 0, 0, 90deg)
+    transition-timing-function: ease-in
+    opacity: 0
+  40%
+    transform: perspective(400px) rotate3d(1, 0, 0, -20deg)
+    transition-timing-function: ease-in
+  60%
+    transform: perspective(400px) rotate3d(1, 0, 0, 10deg)
+    opacity: 1
+  80%
+    transform: perspective(400px) rotate3d(1, 0, 0, -5deg)
+  100%
+    transform: perspective(400px)
 
-// @keyframes flipInY
+@keyframes flipInY
+  0%
+    transform: perspective(400px) rotate3d(0, 1, 0, 90deg)
+    transition-timing-function: ease-in
+    opacity: 0
+  40%
+    transform: perspective(400px) rotate3d(0, 1, 0, -20deg)
+    transition-timing-function: ease-in
+  60%
+    transform: perspective(400px) rotate3d(0, 1, 0, 10deg)
+    opacity: 1
+  80%
+    transform: perspective(400px) rotate3d(0, 1, 0, -5deg)
+  100%
+    transform: perspective(400px)
 
-// @keyframes flipOutX
+@keyframes flipOutX
+  0%
+    transform: perspective(400px)
+  30%
+    transform: perspective(400px) rotate3d(1, 0, 0, -20deg)
+    opacity: 1
+  100%
+    transform: perspective(400px) rotate3d(1, 0, 0, 90deg)
+    opacity: 0
 
-// @keyframes flipOutY
+@keyframes flipOutY
+  0%
+    transform: perspective(400px)
+  30%
+    transform: perspective(400px) rotate3d(0, 1, 0, -15deg)
+    opacity: 1
+  100%
+    transform: perspective(400px) rotate3d(0, 1, 0, 90deg)
+    opacity: 0
 
-// @keyframes lightSpeedIn
+@keyframes lightSpeedIn
+  0%
+    transform: translate3d(100%, 0, 0) skewX(-30deg)
+    opacity: 0
+  60%
+    transform: skewX(20deg)
+    opacity: 1
+  80%
+    transform: skewX(-5deg)
+    opacity: 1
+  100%
+    transform: none
+    opacity: 1
 
-// @keyframes lightSpeedOut
+@keyframes lightSpeedOut
+  0%
+    opacity: 1
+  100%
+    transform: translate3d(100%, 0, 0) skewX(30deg)
+    opacity: 0
 
 // @keyframes rotateIn
 
