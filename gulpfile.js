@@ -1,5 +1,6 @@
 'use strict';
 var gulp = require('gulp');
+var config = require('./config.json');
 var $_ = require('gulp-load-plugins')({rename: {'gulp-autoprefixer':'prefix'}});
 var gutil = require('gulp-util');
 var fs = require('fs-extra');
@@ -32,6 +33,8 @@ gulp.task('default', function(){
             .pipe($_.csso())
             .pipe($_.rename({suffix:'.min'}))
             .pipe(gulp.dest('./'));
-        gulp.watch('./source/**/*.styl',['default']);
+        if(config.watch) {
+            gulp.watch('./source/**/*.styl',['default']);
+        }
     });
 });

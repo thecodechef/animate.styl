@@ -1,4 +1,5 @@
 {
+    "watch":true,
     "attentionSeekers": {
         "bounce": true,
         "flash": true,
