@@ -527,27 +527,93 @@
     transform: rotate3d(0, 0, 1, 90deg)
     opacity: 0
 
-// @keyframes slideInDown
+@keyframes slideInDown
+  0%
+    transform: translate3d(0, -100%, 0)
+    visibility: visible
+  100%
+    transform: translate3d(0, 0, 0)
 
-// @keyframes slideInLeft
+@keyframes slideInLeft
+  0%
+    transform: translate3d(-100%, 0, 0)
+    visibility: visible
+  100%
+    transform: translate3d(0, 0, 0)
 
-// @keyframes slideInRight
+@keyframes slideInRight
+  0%
+    transform: translate3d(100%, 0, 0)
+    visibility: visible
+  100%
+    transform: translate3d(0, 0, 0)
 
-// @keyframes slideInUp
+@keyframes slideInUp
+  0%
+    transform: translate3d(0, 100%, 0)
+    visibility: visible
+  100%
+    transform: translate3d(0, 0, 0)
 
-// @keyframes slideOutDown
+@keyframes slideOutDown
+  0%
+    transform: translate3d(0, 0, 0)
+  100%
+    visibility: hidden
+    transform: translate3d(0, 100%, 0)
 
-// @keyframes slideOutLeft
+@keyframes slideOutLeft
+  0%
+    transform: translate3d(0, 0, 0)
+  100%
+    visibility: hidden
+    transform: translate3d(-100%, 0, 0)
 
-// @keyframes slideOutRight
+@keyframes slideOutRight
+  0%
+    transform: translate3d(0, 0, 0)
+  100%
+    visibility: hidden
+    transform: translate3d(100%, 0, 0)
 
-// @keyframes slideOutUp
+@keyframes slideOutUp
+  0%
+    transform: translate3d(0, 0, 0)
+  100%
+    visibility: hidden
+    transform: translate3d(0, -100%, 0)
 
-// @keyframes hinge
+@keyframes hinge
+  0%
+    transform-origin: top left
+    animation-timing-function: ease-in-out
+  20%, 60%
+    transform: rotate3d(0, 0, 1, 80deg)
+    transform-origin: top left
+    animation-timing-function: ease-in-out
+  40%, 80%
+    transform: rotate3d(0, 0, 1, 60deg)
+    transform-origin: top left
+    animation-timing-function: ease-in-out
+    opacity: 1
+  100%
+    transform: translate3d(0, 700px, 0)
+    opacity: 0
 
-// @keyframes rollIn
+@keyframes rollIn
+  0%
+    opacity: 0
+    transform: translate3d(-100%, 0, 0) rotate3d(0, 0, 1, -120deg)
+  100%
+    opacity: 1
+    transform: none
 
-// @keyframes rollOut
+@keyframes rollOut
+  0%
+    opacity: 1
+  100%
+    opacity: 0
+    transform: translate3d(100%, 0, 0) rotate3d(0, 0, 1, 120deg)
 
 // @keyframes zoomIn
 
