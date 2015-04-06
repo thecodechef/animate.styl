@@ -1,5 +1,5 @@
 {
-    "attentionSeekers": {
+    "attention_seekers": {
         "bounce": true,
         "flash": true,
         "pulse": true,
@@ -9,39 +9,35 @@
         "tada": true,
         "wobble": true
     },
-    "bounceIns": {
+    "bounce_entrances": {
         "bounceIn": true,
         "bounceInDown": true,
         "bounceInLeft": true,
         "bounceInRight": true,
         "bounceInUp": true
     },
-    "bounceOuts": {
+    "bounce_exits": {
         "bounceOut": true,
         "bounceOutDown": true,
         "bounceOutLeft": true,
         "bounceOutRight": true,
         "bounceOutUp": true
     },
-    "fadeIns": {
+    "fade_entrances": {
         "fadeIn": true,
         "fadeInDown": true,
         "fadeInDownBig": true,
         "fadeInLeft": true,
         "fadeInLeftBig": true,
-        "fadeInRight": true,
-        "fadeInRightBig": true,
         "fadeInUp": true,
         "fadeInUpBig": true
     },
-    "fadeOuts": {
+    "fade_exits": {
         "fadeOut": true,
         "fadeOutDown": true,
         "fadeOutDownBig": true,
         "fadeOutLeft": true,
         "fadeOutLeftBig": true,
-        "fadeOutRight": true,
-        "fadeOutRightBig": true,
         "fadeOutUp": true,
         "fadeOutUpBig": true
     },
@@ -56,27 +52,27 @@
         "lightSpeedIn": true,
         "lightSpeedOut": true
     },
-    "rotateIns": {
+    "rotate_entrances": {
         "rotateIn": true,
         "rotateInDownLeft": true,
         "rotateInDownRight": true,
         "rotateInUpLeft": true,
         "rotateInUpRight": true
     },
-    "rotateOuts": {
+    "rotate_exits": {
         "rotateOut": true,
         "rotateOutDownLeft": true,
         "rotateOutDownRight": true,
         "rotateOutUpLeft": true,
         "rotateOutUpRight": true
     },
-    "slideIns": {
+    "slide_entrances": {
         "slideInDown": true,
         "slideInLeft": true,
         "slideInRight": true,
         "slideInUp": true
     },
-    "slideOuts": {
+    "slide_exits": {
         "slideOutDown": true,
         "slideOutLeft": true,
         "slideOutRight": true,
@@ -87,14 +83,14 @@
         "rollIn": true,
         "rollOut": true
     },
-    "zoomIns": {
+    "zoom_entrances": {
         "zoomIn": true,
         "zoomInDown": true,
         "zoomInLeft": true,
         "zoomInRight": true,
         "zoomInUp": true
     },
-    "zoomOuts": {
+    "zoom_exits": {
         "zoomOut": true,
         "zoomOutDown": true,
         "zoomOutLeft": true,

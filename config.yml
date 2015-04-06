@@ -1,0 +1,84 @@
+attention_seekers:
+    bounce: true
+    flash: true
+    pulse: true
+    rubberBand: true
+    shake: true
+    swing: true
+    tada: true
+    wobble: true
+bounce_entrances:
+    bounceIn: true
+    bounceInDown: true
+    bounceInLeft: true
+    bounceInRight: true
+    bounceInUp: true
+bounce_exits:
+    bounceOut: true
+    bounceOutDown: true
+    bounceOutLeft: true
+    bounceOutRight: true
+    bounceOutUp: true
+fade_entrances:
+    fadeIn: true
+    fadeInDown: true
+    fadeInDownBig: true
+    fadeInLeft: true
+    fadeInLeftBig: true
+    fadeInUp: true
+    fadeInUpBig: true
+fade_exits:
+    fadeOut: true
+    fadeOutDown: true
+    fadeOutDownBig: true
+    fadeOutLeft: true
+    fadeOutLeftBig: true
+    fadeOutUp: true
+    fadeOutUpBig: true
+flippers:
+    flip: true
+    flipInX: true
+    flipInY: true
+    flipOutX: true
+    flipOutY: true
+lightspeeds:
+    lightSpeedIn: true
+    lightSpeedOut: true
+rotate_entrances:
+    rotateIn: true
+    rotateInDownLeft: true
+    rotateInDownRight: true
+    rotateInUpLeft: true
+    rotateInUpRight: true
+rotate_exits:
+    rotateOut: true
+    rotateOutDownLeft: true
+    rotateOutDownRight: true
+    rotateOutUpLeft: true
+    rotateOutUpRight: true
+slide_entrances:
+    slideInDown: true
+    slideInLeft: true
+    slideInRight: true
+    slideInUp: true
+slide_exits:
+    slideOutDown: true
+    slideOutLeft: true
+    slideOutRight: true
+    slideOutUp: true
+specials:
+    hinge: true
+    rollIn: true
+    rollOut: true
+zoom_entrances:
+    zoomIn: true
+    zoomInDown: true
+    zoomInLeft: true
+    zoomInRight: true
+    zoomInUp: true
+zoom_exits:
+    zoomOut: true
+    zoomOutDown: true
+    zoomOutLeft: true
+    zoomOutRight: true
+    zoomOutUp: true
