@@ -1,6 +1,6 @@
 {
   "name": "animate.styl",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "homepage": "https://github.com/thecodechef/animate.styl",
   "description": "The Official Stylus port of Animate.css",
   "main": "animate.styl",
