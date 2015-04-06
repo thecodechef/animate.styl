@@ -1,11 +1,11 @@
 'use strict';
 var gulp = require('gulp');
-var config = require('./config.json');
 var $_ = require('gulp-load-plugins')({rename: {'gulp-autoprefixer':'prefix'}});
 var gutil = require('gulp-util');
 var fs = require('fs-extra');
+var config = './config.json';
 gulp.task('default', function(){
-    fs.readJson('./config.json',function(err,data) {
+    fs.readJson(config,function(err,data) {
         if(err) {console.warn(err);}
         var catagories = data;
         var catagory,file,files;
