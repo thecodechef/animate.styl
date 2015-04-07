@@ -1,7 +1,7 @@
 'use strict';
 var gulp = require('gulp');
 var $_ = require('gulp-load-plugins')({rename: {'gulp-autoprefixer':'prefix'}});
-gulp.task('test', function(){
+gulp.task('default', function(){
     gulp.src('./config.yml').pipe($_.yaml({space:4})).pipe(gulp.dest('./'));
     var config = require('./config.json');
     var catagories = config,
