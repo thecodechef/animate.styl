@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/thecodechef/animate.styl.svg)](https://travis-ci.org/thecodechef/animate.styl)  [![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl)
+[![Build Status](https://travis-ci.org/thecodechef/animate.styl.svg)](https://travis-ci.org/thecodechef/animate.styl)  [![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl) [![Gitter chat][gitter-image]][gitter-url]
 
 # Animate.styl
 
@@ -57,3 +57,5 @@ SOFTWARE.#
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thecodechef/animate.styl/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+[gitter-url](https://gitter.im/thecodechef/animate.styl)
+[gitter-image](https://gitter.im/thecodechef/animate.styl/gulp.png)
