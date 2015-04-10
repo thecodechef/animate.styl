@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/thecodechef/animate.styl.svg)](https://travis-ci.org/thecodechef/animate.styl)  [![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl) [![Gitter chat][gitter-image]][gitter-url]
+[![Build Status](https://travis-ci.org/thecodechef/animate.styl.svg)](https://travis-ci.org/thecodechef/animate.styl)  [![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl) [![Gitter Chat https://gitter.im/thecodechef/animate.styl](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thecodechef/animate.styl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Animate.styl
 
