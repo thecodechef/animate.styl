@@ -1,3 +1,6 @@
+
+[![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl)
+
 # Animate.styl
 
 ## Installation
