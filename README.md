@@ -1,5 +1,5 @@
 
-[gulp-image](gulp-url) [travis-image](travis-url)  [coveralls-image](coveralls-url) [gitter-image](gitter-url) <iframe src="//benschwarz.github.io/bower-badges/embed.html?pkgname=animate.styl" width="160" height="32" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
+[![Gulp][gulp-image]][gulp-url] [![Travis][travis-image]][travis-url]  [![Coveralls][coveralls-image]][coveralls-url] [![Gitter][gitter-image]][gitter-url] <iframe src="//benschwarz.github.io/bower-badges/embed.html?pkgname=animate.styl" width="160" height="32" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
 
 # Animate.styl
 
