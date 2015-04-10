@@ -1,5 +1,5 @@
 
-[![Gulp][gulp-image]][gulp-url] [![Travis][travis-image]][travis-url]  [![Coveralls][coveralls-image]][coveralls-url] [![Gitter][gitter-image]][gitter-url] <iframe src="//benschwarz.github.io/bower-badges/embed.html?pkgname=animate.styl" width="160" height="32" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
+[![Gulp][gulp-image]][gulp-url] [![Travis][travis-image]][travis-url] [![Gitter][gitter-image]][gitter-url] <iframe src="//benschwarz.github.io/bower-badges/embed.html?pkgname=animate.styl" width="160" height="32" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
 
 # Animate.styl
 
@@ -62,8 +62,6 @@ SOFTWARE.#
 [gulp-image]: https://img.shields.io/badge/built%20with-gulp-red.svg
 [travis-url]: https://travis-ci.org/thecodechef/animate.styl
 [travis-image]: https://travis-ci.org/thecodechef/animate.styl.svg
-[coveralls-url]: https://coveralls.io/r/thecodechef/animate.styl
-[coveralls-image]: https://coveralls.io/repos/thecodechef/animate.styl/badge.svg
 [gitter-url]: https://gitter.im/thecodechef/animate.styl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
 [bitdeli-url]: https://bitdeli.com/free "Bitdeli Badge"
