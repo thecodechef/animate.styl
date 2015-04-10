@@ -20,5 +20,8 @@
     "gulp-stylus": "^2.0.1",
     "gulp-task-loader": "^1.0.8",
     "gulp-yaml": "^0.2.4"
+  },
+  "dependencies": {
+    "coveralls": "^2.11.2"
   }
 }
