@@ -1,3 +1,10 @@
+
+[![Built With Gulp](gulp-image)](gulp-url)
+[![Build Status](https://travis-ci.org/thecodechef/animate.styl.svg)](https://travis-ci.org/thecodechef/animate.styl)
+[![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl)
+[![Gitter Chat https://gitter.im/thecodechef/animate.styl](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thecodechef/animate.styl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<iframe src="//benschwarz.github.io/bower-badges/embed.html?pkgname=" width="160" height="32" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
+
 # Animate.styl
 
 ## Installation
@@ -51,3 +58,15 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.#
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/thecodechef/animate.styl/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
+
+[gulp-url](http://github.com/gulpjs/gulp.git)
+[gulp-img](http://img.shields.io/badge/built%20with-gulp.js-red.svg)
+[coveralls-url]()
+[coveralls-image]()
+[travis-url]()
+[travis-image]()
+[gitter-url]()
+[gitter-image]()
