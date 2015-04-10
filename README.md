@@ -56,15 +56,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.#
 
-[![Bitdeli Badge](bitdeli-image)](bitdeli-url)
+[![Bitdeli Badge][bitdeli-image]][bitdeli-url]
 
-[gulp-url](http://github.com/gulpjs/gulp.git)
-[gulp-image](https://img.shields.io/badge/built%20with-gulp-red.svg)
-[travis-url](https://travis-ci.org/thecodechef/animate.styl)
-[travis-image](https://travis-ci.org/thecodechef/animate.styl.svg)
-[coveralls-url](https://coveralls.io/r/thecodechef/animate.styl)
-[coveralls-image](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)
-[gitter-url](https://gitter.im/thecodechef/animate.styl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[gitter-image](https://badges.gitter.im/Join%20Chat.svg)
-[bitdeli-url](https://bitdeli.com/free "Bitdeli Badge")
-[bitdeli-image](https://d2weczhvl823v0.cloudfront.net/thecodechef/animate.styl/trend.png)
+[gulp-url]: http://github.com/gulpjs/gulp.git
+[gulp-image]: https://img.shields.io/badge/built%20with-gulp-red.svg
+[travis-url]: https://travis-ci.org/thecodechef/animate.styl
+[travis-image]: https://travis-ci.org/thecodechef/animate.styl.svg
+[coveralls-url]: https://coveralls.io/r/thecodechef/animate.styl
+[coveralls-image]: https://coveralls.io/repos/thecodechef/animate.styl/badge.svg
+[gitter-url]: https://gitter.im/thecodechef/animate.styl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[gitter-image]: https://badges.gitter.im/Join%20Chat.svg
+[bitdeli-url]: https://bitdeli.com/free "Bitdeli Badge"
+[bitdeli-image]: https://d2weczhvl823v0.cloudfront.net/thecodechef/animate.styl/trend.png
