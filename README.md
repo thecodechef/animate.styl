@@ -1,5 +1,5 @@
 
-[![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl)
+[![Build Status](https://travis-ci.org/thecodechef/animate.styl.svg)](https://travis-ci.org/thecodechef/animate.styl)  [![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl)
 
 # Animate.styl
 
