@@ -1,5 +1,5 @@
 
-[![Gulp][gulp-image]][gulp-url] [![Travis][travis-image]][travis-url] [![Gitter][gitter-image]][gitter-url] [![Coverage][coveralls-image]][coverall-url]
+[![Gulp][gulp-image]][gulp-url] [![Travis][travis-image]][travis-url] [![Gitter][gitter-image]][gitter-url] [![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl)
 
 # Animate.styl
 
@@ -64,7 +64,5 @@ SOFTWARE.#
 [travis-image]: https://travis-ci.org/thecodechef/animate.styl.svg
 [gitter-url]: https://gitter.im/thecodechef/animate.styl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter Badge"
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
-[coveralls-image]: https://coveralls.io/repos/thecodechef/animate.styl/badge.svg
-[coverall-url]: https://coveralls.io/r/thecodechef/animate.styl "Coverage Badge"
 [bitdeli-url]: https://bitdeli.com/free "Bitdeli Badge"
 [bitdeli-image]: https://d2weczhvl823v0.cloudfront.net/thecodechef/animate.styl/trend.png
