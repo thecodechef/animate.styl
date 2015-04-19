@@ -1,5 +1,5 @@
 
-[![Gulp][gulp-image]][gulp-url] [![Travis][travis-image]][travis-url] [![Gitter][gitter-image]][gitter-url] <iframe src="//benschwarz.github.io/bower-badges/embed.html?pkgname=animate.styl" width="160" height="32" allowtransparency="true" frameborder="0" scrolling="0"></iframe>
+[![Gulp][gulp-image]][gulp-url] [![Travis][travis-image]][travis-url] [![Gitter][gitter-image]][gitter-url] [![Coverage][coveralls-image]][coverall-url]
 
 # Animate.styl
 
@@ -58,11 +58,13 @@ SOFTWARE.#
 
 [![Bitdeli Badge][bitdeli-image]][bitdeli-url]
 
-[gulp-url]: http://github.com/gulpjs/gulp.git
+[gulp-url]: http://github.com/gulpjs/gulp.git "Gulp Badge"
 [gulp-image]: https://img.shields.io/badge/built%20with-gulp-red.svg
-[travis-url]: https://travis-ci.org/thecodechef/animate.styl
+[travis-url]: https://travis-ci.org/thecodechef/animate.styl "Travis Badge"
 [travis-image]: https://travis-ci.org/thecodechef/animate.styl.svg
-[gitter-url]: https://gitter.im/thecodechef/animate.styl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[gitter-url]: https://gitter.im/thecodechef/animate.styl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter Badge"
 [gitter-image]: https://badges.gitter.im/Join%20Chat.svg
+[coveralls-image]: https://coveralls.io/repos/thecodechef/animate.styl/badge.svg
+[coverall-url]: https://coveralls.io/r/thecodechef/animate.styl "Coverage Badge"
 [bitdeli-url]: https://bitdeli.com/free "Bitdeli Badge"
 [bitdeli-image]: https://d2weczhvl823v0.cloudfront.net/thecodechef/animate.styl/trend.png

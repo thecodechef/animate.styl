@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Jeremy Bolding &lt;cyberchefjay@gmail.com&gt;</string>
+	<key>description</key>
+	<string>The Official Stylus port of Animate.css</string>
+	<key>devDependencies</key>
+	<dict>
+		<key>fs-extra</key>
+		<string>^0.18.0</string>
+		<key>gulp</key>
+		<string>^3.8.11</string>
+		<key>gulp-autoprefixer</key>
+		<string>^2.1.0</string>
+		<key>gulp-concat</key>
+		<string>^2.5.2</string>
+		<key>gulp-csso</key>
+		<string>^1.0.0</string>
+		<key>gulp-load-plugins</key>
+		<string>^0.9.0</string>
+		<key>gulp-rename</key>
+		<string>^1.2.2</string>
+		<key>gulp-stylus</key>
+		<string>^2.0.1</string>
+		<key>gulp-task-loader</key>
+		<string>^1.0.8</string>
+		<key>gulp-yaml</key>
+		<string>^0.2.4</string>
+	</dict>
+	<key>homepage</key>
+	<string>https://github.com/thecodechef/animate.styl</string>
+	<key>license</key>
+	<string>MIT</string>
+	<key>main</key>
+	<string>animate.styl</string>
+	<key>name</key>
+	<string>animate.styl</string>
+	<key>scripts</key>
+	<dict>
+		<key>test</key>
+		<string></string>
+	</dict>
+	<key>version</key>
+	<string>1.0.4</string>
+</dict>
+</plist>
