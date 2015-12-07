@@ -34,11 +34,11 @@ gulp.task('default', function(){
    
     gulp.src(target)
       .pipe($_.concat('animate.styl'))
-      .pipe(gulp.dest('./'))
+      .pipe(gulp.dest('./source/'))
       .pipe($_.stylus())
       .pipe($_.prefix('last 1 version','bb 10'))
-      .pipe(gulp.dest('./'))
+      .pipe(gulp.dest('./dist/'))
       .pipe($_.csso())
       .pipe($_.rename({suffix: '.min'}))
-      .pipe(gulp.dest('./'));
+      .pipe(gulp.dest('./dist/'));
 });
