@@ -1,5 +1,5 @@
 
-[![Gulp][gulp-image]][gulp-url] [![Travis][travis-image]][travis-url] [![Gitter][gitter-image]][gitter-url] [![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl)
+[![Gulp][gulp-image]][gulp-url] [![Travis][travis-image]][travis-url] [![Gitter][gitter-image]][gitter-url] [![Coverage Status](https://coveralls.io/repos/thecodechef/animate.styl/badge.svg)](https://coveralls.io/r/thecodechef/animate.styl) [![Greenkeeper badge](https://badges.greenkeeper.io/thecodechef/animate.styl.svg)](https://greenkeeper.io/)
 
 # Animate.styl
 
